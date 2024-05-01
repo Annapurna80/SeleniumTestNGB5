@@ -41,9 +41,7 @@ SeleniumUtils.verifyTextInElement(driver, 10, idFromTable, pimPage.employeeID);
 SeleniumUtils.verifyTextInElement(driver, 10, firstNameFromTable, pimPage.fName);
 SeleniumUtils.verifyTextInElement(driver, 10, lastNameFromTable, pimPage.lName);
 
-//Assertions.assertEquals(idFromTable, pimPage.employeeID);
-//Assertions.assertEquals(firstNameFromTable, pimPage.fName);
-//Assertions.assertEquals(lastNameFromTable, pimPage.lName);
+
 
 
 
