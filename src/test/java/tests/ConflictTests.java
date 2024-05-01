@@ -14,6 +14,6 @@ public class ConflictTests {
     @Test
     public void test2(){
         String message = "Welcome ti USA";
-        System.out.println(message);;
+        System.out.println("bbb" + message);;
     }
 }
