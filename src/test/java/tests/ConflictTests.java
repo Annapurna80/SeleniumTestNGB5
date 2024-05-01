@@ -13,7 +13,7 @@ public class ConflictTests {
     }
     @Test
     public void test2(){
-        String message = "Welcome ti USA";
+        String message = "Welcome to USA - the land of oppot";
         System.out.println(message);;
     }
 }
