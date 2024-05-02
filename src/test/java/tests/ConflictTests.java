@@ -6,9 +6,9 @@ import org.testng.annotations.Test;
 public class ConflictTests {
     @Test
     public void test(){
-        int a = 2;
-        int b = 3;
-        System.out.println("Sum" + (a+5));
+        int a = 5;
+        int b = 5;
+        System.out.println("Sum" + (a+b));
 
     }
     @Test
